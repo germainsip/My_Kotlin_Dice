@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">My Kotlin app</string>
-    <string name="roll">Roll</string>
+    <string name="app_name">My Kotlin Dice</string>
+    <string name="roll">Lancer</string>
     <string name="salut_monde">Salut Monde!</string>
     <string name="message_affichable">Trop beau !!!</string>
+    <string name="plus_un">plus un</string>
 </resources>
